@@ -5,4 +5,4 @@ install
 
 
 
-if ther is any chnages please tolk with me 
+if ther is any chnages please talk with me 
